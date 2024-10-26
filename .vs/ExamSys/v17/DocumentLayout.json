@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\TechEvo Computers\\source\\repos\\ExamSys\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{22E2D366-E079-4924-B0EA-AAE1AF73DA1D}|ExamSys\\ExamSys.csproj|c:\\users\\techevo computers\\source\\repos\\examsys\\examsys\\controllers\\examresultscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22E2D366-E079-4924-B0EA-AAE1AF73DA1D}|ExamSys\\ExamSys.csproj|solutionrelative:examsys\\controllers\\examresultscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22E2D366-E079-4924-B0EA-AAE1AF73DA1D}|ExamSys\\ExamSys.csproj|c:\\users\\techevo computers\\source\\repos\\examsys\\examsys\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22E2D366-E079-4924-B0EA-AAE1AF73DA1D}|ExamSys\\ExamSys.csproj|solutionrelative:examsys\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22E2D366-E079-4924-B0EA-AAE1AF73DA1D}|ExamSys\\ExamSys.csproj|c:\\users\\techevo computers\\source\\repos\\examsys\\examsys\\service\\studentmainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22E2D366-E079-4924-B0EA-AAE1AF73DA1D}|ExamSys\\ExamSys.csproj|solutionrelative:examsys\\service\\studentmainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22E2D366-E079-4924-B0EA-AAE1AF73DA1D}|ExamSys\\ExamSys.csproj|c:\\users\\techevo computers\\source\\repos\\examsys\\examsys\\models\\examresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22E2D366-E079-4924-B0EA-AAE1AF73DA1D}|ExamSys\\ExamSys.csproj|solutionrelative:examsys\\models\\examresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22E2D366-E079-4924-B0EA-AAE1AF73DA1D}|ExamSys\\ExamSys.csproj|c:\\users\\techevo computers\\source\\repos\\examsys\\examsys\\service\\excelservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22E2D366-E079-4924-B0EA-AAE1AF73DA1D}|ExamSys\\ExamSys.csproj|solutionrelative:examsys\\service\\excelservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22E2D366-E079-4924-B0EA-AAE1AF73DA1D}|ExamSys\\ExamSys.csproj|c:\\users\\techevo computers\\source\\repos\\examsys\\examsys\\controllers\\examcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22E2D366-E079-4924-B0EA-AAE1AF73DA1D}|ExamSys\\ExamSys.csproj|solutionrelative:examsys\\controllers\\examcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22E2D366-E079-4924-B0EA-AAE1AF73DA1D}|ExamSys\\ExamSys.csproj|c:\\users\\techevo computers\\source\\repos\\examsys\\examsys\\service\\examservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22E2D366-E079-4924-B0EA-AAE1AF73DA1D}|ExamSys\\ExamSys.csproj|solutionrelative:examsys\\service\\examservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\TechEvo Computers\\source\\repos\\ExamSys\\ExamSys\\Program.cs",
+              "RelativeDocumentMoniker": "ExamSys\\Program.cs",
+              "ToolTip": "C:\\Users\\TechEvo Computers\\source\\repos\\ExamSys\\ExamSys\\Program.cs",
+              "RelativeToolTip": "ExamSys\\Program.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAowFgAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T16:01:54.851Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ExamController.cs",
+              "DocumentMoniker": "C:\\Users\\TechEvo Computers\\source\\repos\\ExamSys\\ExamSys\\controllers\\ExamController.cs",
+              "RelativeDocumentMoniker": "ExamSys\\controllers\\ExamController.cs",
+              "ToolTip": "C:\\Users\\TechEvo Computers\\source\\repos\\ExamSys\\ExamSys\\controllers\\ExamController.cs",
+              "RelativeToolTip": "ExamSys\\controllers\\ExamController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T16:00:43.004Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ExcelService.cs",
+              "DocumentMoniker": "C:\\Users\\TechEvo Computers\\source\\repos\\ExamSys\\ExamSys\\service\\ExcelService.cs",
+              "RelativeDocumentMoniker": "ExamSys\\service\\ExcelService.cs",
+              "ToolTip": "C:\\Users\\TechEvo Computers\\source\\repos\\ExamSys\\ExamSys\\service\\ExcelService.cs",
+              "RelativeToolTip": "ExamSys\\service\\ExcelService.cs",
+              "ViewState": "AgIAAJUAAAAAAAAAAAAuwLsAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T15:59:34.145Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StudentMainMenu.cs",
+              "DocumentMoniker": "C:\\Users\\TechEvo Computers\\source\\repos\\ExamSys\\ExamSys\\service\\StudentMainMenu.cs",
+              "RelativeDocumentMoniker": "ExamSys\\service\\StudentMainMenu.cs",
+              "ToolTip": "C:\\Users\\TechEvo Computers\\source\\repos\\ExamSys\\ExamSys\\service\\StudentMainMenu.cs",
+              "RelativeToolTip": "ExamSys\\service\\StudentMainMenu.cs",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAAAHIAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T15:58:58.251Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ExamResult.cs",
+              "DocumentMoniker": "C:\\Users\\TechEvo Computers\\source\\repos\\ExamSys\\ExamSys\\models\\ExamResult.cs",
+              "RelativeDocumentMoniker": "ExamSys\\models\\ExamResult.cs",
+              "ToolTip": "C:\\Users\\TechEvo Computers\\source\\repos\\ExamSys\\ExamSys\\models\\ExamResult.cs",
+              "RelativeToolTip": "ExamSys\\models\\ExamResult.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA4AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T15:57:05.399Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ExamService.cs",
+              "DocumentMoniker": "C:\\Users\\TechEvo Computers\\source\\repos\\ExamSys\\ExamSys\\service\\ExamService.cs",
+              "RelativeDocumentMoniker": "ExamSys\\service\\ExamService.cs",
+              "ToolTip": "C:\\Users\\TechEvo Computers\\source\\repos\\ExamSys\\ExamSys\\service\\ExamService.cs",
+              "RelativeToolTip": "ExamSys\\service\\ExamService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T15:54:23.66Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ExamResultsController.cs",
+              "DocumentMoniker": "C:\\Users\\TechEvo Computers\\source\\repos\\ExamSys\\ExamSys\\controllers\\ExamResultsController.cs",
+              "RelativeDocumentMoniker": "ExamSys\\controllers\\ExamResultsController.cs",
+              "ToolTip": "C:\\Users\\TechEvo Computers\\source\\repos\\ExamSys\\ExamSys\\controllers\\ExamResultsController.cs",
+              "RelativeToolTip": "ExamSys\\controllers\\ExamResultsController.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAYwF4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T15:24:05.224Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
